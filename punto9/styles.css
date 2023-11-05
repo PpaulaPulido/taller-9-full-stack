@@ -1,0 +1,12 @@
+table{
+    margin: auto;
+    background-color: yellow;
+    border-collapse: collapse;
+    width: 800px;
+}
+td,th{
+    border: 1px dotted black;
+}
+.encabezado{
+    color: red;
+}

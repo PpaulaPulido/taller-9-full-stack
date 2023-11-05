@@ -1,0 +1,17 @@
+div{
+    margin-top: 40px;
+}
+.enlace1{
+    color: yellow;
+    font-size: 45px;
+}
+.enlace1:hover{
+    color: rgb(231, 231, 114);
+}
+.enlace2{
+    color: purple;
+    font-size: 45px;
+}
+.enlace2:hover{
+    color: rgb(196, 91, 196);
+}

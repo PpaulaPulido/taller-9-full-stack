@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./public/images/header-logo.png">
     <title>Page Design</title>
 </head>
 <body>
@@ -13,10 +14,10 @@
             <img src="./public/images/header-logo.png" alt="header logo">
             <nav>
                 <ul>
-                    <li><a href="">Cursos</a></li>
-                    <li><a href="">Participantes</a></li>
-                    <li><a href="">Certificados</a></li>
-                    <li><a href="">Ayuda</a></li>
+                    <li><a href="#banner">Cursos</a></li>
+                    <li><a href="#section-1">Participantes</a></li>
+                    <li><a href="#section-2">Certificados</a></li>
+                    <li><a href="#footer">Ayuda</a></li>
                 </ul>
             </nav>
         </div>
@@ -97,8 +98,52 @@
         </section>
     </main>
 
-    <footer>
-        
+    <footer id="footer">
+
+        <div class="footer__info">
+            <img src="./public/images/footer-logo.png" alt="logo" width="200px" height="175px">
+            <p>Únete a nuestra comunidad para recibir información actualizada de los cursos y conferencias que ofrecemos</p>
+            <form action="">
+              <input type="email" placeholder="example@correo.com" name="user_email">
+              <button>Subscribirse</button>
+            </form>
+        </div>
+
+        <div class="footer__list">
+            <table>
+
+                <thead>
+                    <tr>
+                        <th>Plataforma</th>
+                        <th>Preguntas frecuentes</th>
+                        <th>Contáctanos</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td><a href="#">Planestic</a></td>
+                        <td><a href="#">¿Cómo puedo inscribirme?</a></td>
+                        <td><a href="#">+57 3115402016</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="#">Moodle</a></td>
+                        <td><a href="#">¿Cómo obtengo mis certificados?</a></td>
+                        <td><a href="#">udistrital@edu.co</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="#">Atenea</a></td>
+                        <td><a href="#">Medios de pago</a></td>
+                        <td><a href="#">Calle 4c #7-19 Bogotá</a></td>
+                    </tr>
+                    <tr>
+                       <td><a href="#">Administración</a></td>
+                       <td><a href="#">¿Qué convenios existen?</a></td> 
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
     </footer>
 </body>
 </html>

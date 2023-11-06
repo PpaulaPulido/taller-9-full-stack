@@ -8,6 +8,7 @@
 <a href= "https://www.figma.com/file/T2AIp0wyRqwKCEbl9iCVq7/Paula-Andrea-Pulido-Ibarra?type=design&node-id=0%3A1&mode=design&t=Wy7eNtE8donyi6v0-1">Link de Figma</a>
 
 <h2>Punto 2: Diseño en HTML</h2>
+<img src="./public/images/punto-2.png" alt="punto 2">
 
 <h2>Punto 3: Diseño en CSS</h2>
 

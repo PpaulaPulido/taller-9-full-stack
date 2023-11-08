@@ -13,7 +13,7 @@
 <h2>Punto 3: Diseño en CSS</h2>
 
 <h2>Punto 4: Títulos</h2>
-<img src="./public/images/punto-4.png" alt="punto 4">
+<img src="./public/images/punto4.png" alt="punto 4">
 
 <h2>Punto 5: Párrafo</h2>
 <img src="./public/images/punto-5.png" alt="punto 5">

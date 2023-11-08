@@ -1,14 +1,18 @@
 div{
     width: 700px;
+    margin: 0 auto;
 }
 div p{
-    line-height: 1.8;
+    line-height: 1.5;
+    font-size: 16px;
 }
-.subrayado-green{
+.green{
     color: green;
 }
-.span-red{
+.red{
     color: red;
+}
+.bold{
     font-weight: bold;
 }
 .subrayado{
@@ -16,10 +20,14 @@ div p{
 }
 .subrayado-red{
     color: red;
+    font-weight: bold;
 }
 .negrilla{
     font-size: 50px;
 }
-.span-blue{
+.blue{
     color: blue;
+}
+.text{
+    font-size: 20px;
 }

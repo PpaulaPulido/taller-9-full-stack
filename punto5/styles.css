@@ -1,10 +1,20 @@
 div{
     width: 700px;
 }
-.Subrayado-green{
+div p{
+    line-height: 1.8;
+}
+.subrayado-green{
     color: green;
 }
-.red{
+.span-red{
+    color: red;
+    font-weight: bold;
+}
+.subrayado{
+    text-decoration: overline underline;
+}
+.subrayado-red{
     color: red;
 }
 .negrilla{

@@ -7,6 +7,9 @@ table{
 td,th{
     border: 1px dotted black;
 }
+.td{
+    border-bottom: 1px dashed red;
+}
 .encabezado{
     color: red;
 }

@@ -22,7 +22,7 @@
 <h2>Punto 6: Links</h2>
 <img src="./public/images/punto-6.png" alt="punto 6">
 
-<h2>Punto 7 y 8: Barra de navgeación</h2>
+<h2>Punto 7 y 8: Barra de navagación</h2>
 <img src="./public/images/punto-8.png" alt="punto 6">
 <h2>Punto 9: Tabla</h2>
 <img src="./public/images/punto-9.png" alt="punto 9">
